@@ -21,3 +21,6 @@
         <li>2️⃣ Update the parking database in real time.</li>
     </ul>
 
+    
+<img width="964" alt="Screenshot 2025-03-25 at 23 46 12" src="https://github.com/user-attachments/assets/e0124e2a-db1c-4aa5-b576-105a7d433cac" />
+
