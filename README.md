@@ -1,17 +1,23 @@
 <h1>🚗 Smart Car Parking Space Management System </h1>
-Efficiently manage and monitor parking spaces using AI-powered detection and real-time data.
+<h3>Efficiently manage and monitor parking spaces using AI-powered detection and real-time data.</h3>
 
-🔹 Features:
-✅ Vehicle Detection – Detects and tracks vehicles in real-time.
-✅ Smart Parking Allocation – Dynamically assigns parking spots.
-✅ Real-Time Monitoring – Provides live updates on parking availability.
+<h2>🔹 Features:</h2>
+    <ul>
+        <li>✅ <b>Vehicle Detection</b> – Detects and tracks vehicles in real-time.</li>
+        <li>✅ <b>Smart Parking Allocation</b> – Dynamically assigns parking spots.</li>
+        <li>✅ <b>Real-Time Monitoring</b> – Provides live updates on parking availability.</li>
+    </ul>
 
-🔹 Technologies Used:
-🔸 Machine Learning & AI (For vehicle and number plate detection)
-🔸 OpenCV & YOLO (For object detection)
-🔸 Python & Flask/FastAPI (For backend services)
+  <h2>🔹 Technologies Used:</h2>
+    <ul>
+        <li>🔸 <b>Machine Learning & AI</b> (For vehicle and number plate detection)</li>
+        <li>🔸 <b>OpenCV & YOLO</b> (For object detection)</li>
+        <li>🔸 <b>Python & Flask/FastAPI</b> (For backend services)</li>
+    </ul>
 
-🚀 How It Works:
-1️⃣ Capture live video from parking areas.
-2️⃣ Update the parking database in real time.
+  <h2>🚀 How It Works:</h2>
+    <ul>
+        <li>1️⃣ Capture live video from parking areas.</li>
+        <li>2️⃣ Update the parking database in real time.</li>
+    </ul>
 
